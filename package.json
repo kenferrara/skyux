@@ -27,7 +27,7 @@
     "axe-core": "1.1.1",
     "blackbaud-stache": "0.7.25",
     "browserstacktunnel-wrapper": "1.4.2",
-    "codecov": "1.0.1",
+    "codecov": "3.7.1",
     "dotenv": "2.0.0",
     "fontfaceobserver": "2.0.13",
     "grunt": "0.4.5",
